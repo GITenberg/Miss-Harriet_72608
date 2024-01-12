@@ -1,0 +1,43 @@
+_repo: Miss-Harriet_72608
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tóth, Árpád
+    alias: Toth, Arpad
+    birthdate: 1886
+    deathdate: 1928
+    gutenberg_agent_id: '53058'
+    url: http://www.gutenberg.org/2009/agents/53058
+    wikipedia:
+    - https://en.wikipedia.org/wiki/%C3%81rp%C3%A1d_T%C3%B3th
+    - https://hu.wikipedia.org/wiki/T%C3%B3th_%C3%81rp%C3%A1d_(k%C3%B6lt%C5%91)
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - https://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2024-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72608'
+language: hu
+pgterms:marc905: 20240102170131maupassant
+pgterms:marc906: '1927'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  National Digital Archive
+publication_note: '  $aBudapest :$bAthenaeum, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Miss Harriet
+url: http://www.gutenberg.org/ebooks/72608
