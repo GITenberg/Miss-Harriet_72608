@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/%C3%81rp%C3%A1d_T%C3%B3th
     - https://hu.wikipedia.org/wiki/T%C3%B3th_%C3%81rp%C3%A1d_(k%C3%B6lt%C5%91)
+covers:
+- cover_type: archival
+  image_path: 72608-h/images/cover.jpg
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -23,6 +26,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - https://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72608#Miss-Harriet
 gutenberg_issued: '2024-01-03'
 gutenberg_type: Text
 identifiers:
